@@ -1,0 +1,17 @@
+{
+  "name": "shogun-boardgame",
+  "version": "0.0.1",
+  "description": "A react/redux implementation of the board game \"Shogun\"",
+  "main": "index.js",
+  "repository": "https://github.com/mjeffery/shogun-boardgame.git",
+  "author": "mjeffery",
+  "scripts": {
+	  "compile": "babel src --out-dir lib --source-maps"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-preset-node6": "^11.0.0"
+  }
+}
